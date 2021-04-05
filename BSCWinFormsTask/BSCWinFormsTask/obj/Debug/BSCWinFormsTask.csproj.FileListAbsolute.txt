@@ -1,0 +1,13 @@
+E:\Work\Tasks\BSC\BSCWinFormsTask\BSCWinFormsTask\bin\Debug\BSCWinFormsTask.exe.config
+E:\Work\Tasks\BSC\BSCWinFormsTask\BSCWinFormsTask\bin\Debug\BSCWinFormsTask.exe
+E:\Work\Tasks\BSC\BSCWinFormsTask\BSCWinFormsTask\bin\Debug\BSCWinFormsTask.pdb
+E:\Work\Tasks\BSC\BSCWinFormsTask\BSCWinFormsTask\obj\Debug\BSCWinFormsTask.Home.resources
+E:\Work\Tasks\BSC\BSCWinFormsTask\BSCWinFormsTask\obj\Debug\BSCWinFormsTask.Properties.Resources.resources
+E:\Work\Tasks\BSC\BSCWinFormsTask\BSCWinFormsTask\obj\Debug\BSCWinFormsTask.csproj.GenerateResource.cache
+E:\Work\Tasks\BSC\BSCWinFormsTask\BSCWinFormsTask\obj\Debug\BSCWinFormsTask.csproj.CoreCompileInputs.cache
+E:\Work\Tasks\BSC\BSCWinFormsTask\BSCWinFormsTask\obj\Debug\BSCWinFormsTask.exe
+E:\Work\Tasks\BSC\BSCWinFormsTask\BSCWinFormsTask\obj\Debug\BSCWinFormsTask.pdb
+E:\Work\Tasks\BSC\BSCWinFormsTask\BSCWinFormsTask\obj\Debug\BSCWinFormsTask.SalesView.resources
+E:\Work\Tasks\BSC\BSCWinFormsTask\BSCWinFormsTask\obj\Debug\BSCWinFormsTask.Visits.resources
+E:\Work\Tasks\BSC\BSCWinFormsTask\BSCWinFormsTask\obj\Debug\BSCWinFormsTask.SalesVisits.resources
+E:\Work\Tasks\BSC\BSCWinFormsTask\BSCWinFormsTask\obj\Debug\BSCWinFormsTask.csprojAssemblyReference.cache
